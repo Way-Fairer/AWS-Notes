@@ -2,7 +2,7 @@
 
 Shoutout to Unfold Data Science. [Video](https://www.youtube.com/watch?v=0SYV7o_fd50&list=PLmPJQXJiMoUWFW2JxRSAfhcsQ0Cr9qbv-) for reference
 
-# What is cloud computing?
+### What is cloud computing?
 Why do we need cloud computing? 
 * Scalability (back end and server)
 * Secure
@@ -21,7 +21,7 @@ Say you have two different files:
 
 Everything that happens on their platform is called cloud-computing. 
 
-# 3 different kinds of services from cloud computing
+### 3 different kinds of services from cloud computing
 
 These services take into consideration these factors:
 1. Application: where content is hosted
@@ -45,7 +45,7 @@ The 3 services:
 If someone is running a website by themselves, what are they responsible for? All 9 of the factors listed above
 If they decide once their business grows to use cloud computing for at least part of their IT (say, 1 through 5 above), but they want help on the 6 through 9, they can get CSP to help. This is IAAS
 
-# Public and private cloud
+### Public and private cloud
 
 There are public clouds, private clouds, and hybrid clouds.
 
@@ -55,7 +55,7 @@ But if you're a bank, it's very sensitive, so you'd need the private cloud. The 
 
 Most organizations will be a mix of both, so the hybrid cloud. Owner is the company itself. More rigid and less flexibile, more regulations
 
-# Now we go to AWS Console
+### Now we go to AWS Console
 
 They provide a lot of services. If you go to the services pane you can see everything, like storage > AWS backup. There are different service levels, like all the options under Storage, which cater to different businesses
 
