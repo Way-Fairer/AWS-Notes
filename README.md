@@ -1,3 +1,3 @@
 # AWS-Notes
 
-General notes taken while self-stufying AWS system
+General notes taken while self-studying AWS system
